@@ -1,0 +1,19 @@
+{
+  "name": "projectwork",
+  "version": "1.0.0",
+  "description": "projectwork",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "CorneliusT",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "mongodb": "^3.5.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}

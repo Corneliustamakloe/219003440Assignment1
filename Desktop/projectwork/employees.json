@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Cornelius Tamakloe",
+        "position": "IT Manager",
+        "location": "Accra" ,
+        "employeeID": "ESL01",
+        "email":"cornelius.tamakloe@esl.com",
+        "image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+
+    },
+
+    {
+        "name": "Francisco Borrego",
+        "position": "HR",
+        "location": "Accra" ,
+        "employeeID": "ESL02",
+        "email":"francisco.borrego@esl.com",
+        "image": "https://images.unsplash.com/photo-1511546395756-590dffdcdbd1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+
+    },
+
+    {
+        "name": "Waleed Farouk",
+        "position": "Service Manager",
+        "location": "Accra" ,
+        "employeeID": "ESL03",
+        "email":"waleed.farouk@esl.com",
+        "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+
+    },
+
+    {
+        "name": "Mike Gonzalez",
+        "position": "Sales Rep",
+        "location": "Accra" ,
+        "employeeID": "ESL04",
+        "email":"mike.gonzalez@esl.com",
+        "image": "https://images.unsplash.com/photo-1463453091185-61582044d556?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+
+    },
+
+    {
+        "name": "Rahul Rahman",
+        "position": "Project Manager",
+        "location": "Accra" ,
+        "employeeID": "ESL05",
+        "email":"rahul.rahman@esl.com",
+        "image": "https://images.unsplash.com/photo-1492447216082-4726bf04d1d1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+
+    }
+]
